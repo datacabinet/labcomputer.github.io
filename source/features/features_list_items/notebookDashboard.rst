@@ -1,5 +1,5 @@
-Familiarizing Yourself with a Course Dashboard
-###############################################
+Notebook Dashboard
+####################
 
 **The File tab** is kept all your files; at the same time, you may keep track of all your processes with the help of the **Running tab**. The third tab, **Clusters**, allows controlling many individual engines, which are an extended version of the IPython kernel. 
     
