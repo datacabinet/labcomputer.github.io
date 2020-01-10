@@ -81,6 +81,7 @@ pygments_style = None
 # a list of builtin themes.
 #
 html_theme = 'bizstyle'
+# html_style = 'default.css'
 
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.  For a list of options available for each theme, see the
@@ -102,6 +103,10 @@ html_static_path = ['_static']
 # 'searchbox.html']``.
 #
 # html_sidebars = {}
+
+html_css_files = [
+    'myStyles.css',
+]
 
 
 # -- Options for HTMLHelp output ---------------------------------------------
