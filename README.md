@@ -2,6 +2,7 @@
 https://thomas-cokelaer.info/tutorials/sphinx/rest_syntax.html
 
 INSTALLING:
+
     pip for Python 3
         sudo apt update
         sudo apt install python3-pip
