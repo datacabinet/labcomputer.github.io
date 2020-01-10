@@ -13,6 +13,10 @@ INSTALLING:
 
 SOURSE FILE: index.html in ./build/html/index.html
 
-RUNNING FOR GOOGLE HROME: 'google-chrome build/html/index.html'
+RUNNING FOR GOOGLE HROME: 
+    
+    'google-chrome build/html/index.html'
 
-COMPILING COMMAND: 'make html' in main directory
+COMPILING COMMAND: 
+    
+    'make html' in main directory
